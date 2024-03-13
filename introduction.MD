@@ -1,1 +1,2 @@
-Students are learning github
+Students are learning github.
+Teacher has shown them some github commands.
